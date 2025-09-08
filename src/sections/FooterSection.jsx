@@ -10,7 +10,11 @@ const FooterSection = () => {
                 <h1 className='general-title text-center text-milk py-5'>#CHUGRESPONSIBLY</h1>
             </div>
 
-            <video src="/videos/splash.mp4" autoPlay playsInline muted className='absolute top-0 object-contain mix-blend-lighten'></video>
+            <video src="/videos/splash.mp4" autoPlay playsInline muted className='absolute top-0 object-contain mix-blend-lighten' />
+
+            <div className=""></div>
+
+
         </div>
     </section>
   )
